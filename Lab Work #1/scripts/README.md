@@ -10,7 +10,18 @@
 ## Действующий самолет
 ### Active Aircraft 
 
-|	  Название поля |	    Тип данных   |   	    Описание       |       	Ключ         |                             |         ScreenShot              |
-|:----------------|:----------------:|:---------------------:|--------------------:|                             |:-------------------------------:|
-|  id_activeAircraft  |    |     |      |
-|  active_label  |    |     |      |
+|	  Название поля |	    Тип данных   |   	    Описание       |       	Ключ         |                             
+|:----------------|:----------------:|:---------------------:|--------------------:|                       
+|  id_activeAircraft  |  int  |     |      |
+|  active_label  |    |   bool  |      |
+|  departure_airport   |   VARCHAR()
+String   |       |       |
+|   arrival_airport  |   VARCHAR()
+String   |       |       |
+
+
+
+
+|         ScreenShot              |
+|:-------------------------------:|
+|![image](https://github.com/WonMin13/EnterpriseDataBase/assets/154375695/590bc556-af55-4e8a-b68c-576e5e36c60d)|
