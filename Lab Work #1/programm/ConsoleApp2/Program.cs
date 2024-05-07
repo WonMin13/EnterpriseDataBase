@@ -46,7 +46,7 @@ namespace ConsoleApp2
                             {
                                 if (tv == 2)
                                 {
-                                    if (j % 1 == 0) /////////////////////
+                                    if (j % 1 == 0) 
                                     {
                                         clsInfoAircraft info = clsInfoAircraft.randomInfoAicraft(id, random);
                                         try
@@ -99,7 +99,7 @@ namespace ConsoleApp2
                             {
                                 if (tv == 2)
                                 {
-                                    if (j % 1 == 0)////////////
+                                    if (j % 1 == 0)
                                     {
 
                                         clsRunway runway = clsRunway.randomRunway(id, random, count_start);
@@ -169,7 +169,7 @@ namespace ConsoleApp2
                             {
                                 if (tv == 2)
                                 {
-                                    if (j % 1 == 0)////////////////// 1000
+                                    if (j % 1 == 0)
                                     {
                                         clsAirPass airPass = clsAirPass.randomAirPass(random, count_start);
                                         while (airPasses.Contains(airPass))
