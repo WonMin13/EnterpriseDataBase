@@ -1,5 +1,5 @@
 bulk insert air_base.dbo.activeAircraft
-from 'F:\DATA\big0.txt'
+from 'D:\DATA2\big0.txt'
     with
     (
 	datafiletype = 'widechar',
@@ -7,7 +7,7 @@ from 'F:\DATA\big0.txt'
     rowterminator = '\n'
     );
 bulk insert air_base.dbo.informationAircraft
-from 'F:\DATA\big1.txt'
+from 'D:\DATA2\big1.txt'
     with
     (
 	datafiletype = 'widechar',
@@ -15,7 +15,7 @@ from 'F:\DATA\big1.txt'
     rowterminator = '\n'
     );
 bulk insert air_base.dbo.airport
-from 'F:\DATA\big2.txt'
+from 'D:\DATA2\big2.txt'
     with
     (
 	datafiletype = 'widechar',
@@ -23,7 +23,7 @@ from 'F:\DATA\big2.txt'
     rowterminator = '\n'
     );
 bulk insert air_base.dbo.runway
-from 'F:\DATA\big3.txt'
+from 'D:\DATA2\big3.txt'
     with
     (
 	datafiletype = 'widechar',
@@ -31,7 +31,7 @@ from 'F:\DATA\big3.txt'
     rowterminator = '\n'
     );
 bulk insert air_base.dbo.aircompany
-from 'F:\DATA\big4.txt'
+from 'D:\DATA2\big4.txt'
     with
     (
 	datafiletype = 'widechar',
@@ -39,7 +39,7 @@ from 'F:\DATA\big4.txt'
     rowterminator = '\n'
     );
 bulk insert air_base.dbo.passenger
-from 'F:\DATA\big5.txt'
+from 'D:\DATA2\big5.txt'
     with
     (
 	datafiletype = 'widechar',
@@ -47,7 +47,7 @@ from 'F:\DATA\big5.txt'
     rowterminator = '\n'
     );
 bulk insert air_base.dbo.clientAircompany
-from 'F:\DATA\big6.txt'
+from 'D:\DATA2\big6.txt'
     with
     (
 	datafiletype = 'widechar',
