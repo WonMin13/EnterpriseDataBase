@@ -6,11 +6,17 @@
 
 ## Классы-структуры
 [clsAircraft.cs](https://github.com/WonMin13/EnterpriseDataBase/blob/main/Lab%20Work%20%231/programm/ConsoleApp2/clsAircraft.cs) - класс описывающий, элемент таблицы activeAircraft
+
 [clsInfoAircraft.cs](https://github.com/WonMin13/EnterpriseDataBase/blob/main/Lab%20Work%20%231/programm/ConsoleApp2/clsInfoAircraft.cs) - класс описывающий, элемент таблицы informationAircraft
+
 [clsAirport.cs](https://github.com/WonMin13/EnterpriseDataBase/blob/main/Lab%20Work%20%231/programm/ConsoleApp2/clsAirport.cs) - класс описывающий, элемент таблицы airport
+
 [clsRunway.cs](https://github.com/WonMin13/EnterpriseDataBase/blob/main/Lab%20Work%20%231/programm/ConsoleApp2/clsRunway.cs) - класс описывающий, элемент таблицы runway
+
 [clsAircompany.cs](https://github.com/WonMin13/EnterpriseDataBase/blob/main/Lab%20Work%20%231/programm/ConsoleApp2/clsAircompany.cs) - класс описывающий, элемент таблицы aircompany
+
 [clsPassenger.cs](https://github.com/WonMin13/EnterpriseDataBase/blob/main/Lab%20Work%20%231/programm/ConsoleApp2/clsPassenger.cs) - класс описывающий, элемент таблицы passenger
+
 [clsAirPass.cs](https://github.com/WonMin13/EnterpriseDataBase/blob/main/Lab%20Work%20%231/programm/ConsoleApp2/clsAirPass.cs) - класс описывающий, элемент таблицы clientAircompany
 
 ## Класс данных
