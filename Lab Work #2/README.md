@@ -64,3 +64,5 @@
 
 # Содержание
 
+[Ссылка на коллаб](https://github.com/WonMin13/EnterpriseDataBase/blob/main/Lab%20Work%20%232/EDB_lab_2_%D0%94%D1%83%D0%B1%D0%BC%D0%B0%D0%BD_6133.ipynb)
+[Отчёт по лабораторной работе 2](https://github.com/WonMin13/EnterpriseDataBase/blob/main/Lab%20Work%20%232/EDB_LR_%E2%84%962_Dubman_6133.pdf)
